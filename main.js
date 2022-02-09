@@ -4,7 +4,7 @@ var app = new Vue(
     {
         el: "#root",
         data: {
-            message: "Ciao ciao"
+            message: "Vue.js"
         }
     }
 );

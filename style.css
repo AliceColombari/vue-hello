@@ -6,9 +6,18 @@
 
 body {
     font-family: sans-serif;
-    text-align: center;
+    background-color: rgb(29, 29, 29);
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
 }
 
 h1 {
-    margin: 20px 0px;
+    font-size: 100px;
+    color: #67B587;
 }
