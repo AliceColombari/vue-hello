@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+[v-cloak] {
+    display: none;
+}
+
 body {
     font-family: sans-serif;
     background-color: rgb(29, 29, 29);
